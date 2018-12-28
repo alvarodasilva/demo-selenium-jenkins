@@ -13,6 +13,9 @@ public class Main extends TestBase{
 		
 		driver.get(Setup.ADMIN_URL);
 		
+		
+		//Probando commit automatico
+		
 	}
 
 }
