@@ -24,6 +24,7 @@ class TestBase {
 		return wait;
 	}
 	
+	//Creación del login
 	@BeforeEach
 	public void login() throws Exception {
 		driver = Setup.lanchChrome();
